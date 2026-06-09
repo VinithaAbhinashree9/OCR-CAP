@@ -1,10 +1,11 @@
 #  AI OCR Character Recognition System
-Website link :ttps://ocr-cap-54mqstc2npveuhwrjysytn.streamlit.app/
 <div align="center">
 
 # 🔍 AI OCR Studio
 ### Intelligent Handwritten & Printed Text Recognition System
 <img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/243ec8a7-244b-4456-8709-0b0e00164bcd" />
+<img width="1918" height="862" alt="image" src="https://ocr-cap-54mqstc2npveuhwrjysytn.streamlit.app/" />
+
 
 Extract, analyze, and export text from handwritten notes, digits, alphabets, and printed documents using OCR, Computer Vision, and AI.
 
@@ -17,12 +18,6 @@ Extract, analyze, and export text from handwritten notes, digits, alphabets, and
 </div>
 
 ---
-<img width="1917" height="926" alt="Screenshot 2026-06-01 172152" src="https://github.com/user-attachments/assets/6216c503-dc09-4361-89e9-bb6ce79fc130" />
-
-
-<img width="1911" height="915" alt="Screenshot 2026-06-01 172317" src="https://github.com/user-attachments/assets/4ae24f4e-337c-448c-8a79-911eb14e8067" />
-
-
 
 
 ##  Features
