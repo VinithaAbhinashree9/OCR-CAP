@@ -4,6 +4,8 @@
 # 🔍 AI OCR Studio
 ### Intelligent Handwritten & Printed Text Recognition System
 <img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/243ec8a7-244b-4456-8709-0b0e00164bcd" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/1ea1540b-e33b-467c-8c45-8d9edde7f8bd" />
+
 
 
 
