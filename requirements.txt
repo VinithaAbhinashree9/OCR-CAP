@@ -14,3 +14,4 @@ gunicorn
 streamlit
 plotly
 opencv-python-headless
+reportlab
