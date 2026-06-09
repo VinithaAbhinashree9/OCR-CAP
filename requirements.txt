@@ -1,0 +1,16 @@
+flask
+numpy
+pandas
+pillow
+easyocr
+paddleocr
+pytesseract
+langchain
+langchain-community
+matplotlib
+scikit-learn
+emnist
+gunicorn
+streamlit
+plotly
+opencv-python-headless
