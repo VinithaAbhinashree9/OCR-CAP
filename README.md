@@ -375,7 +375,7 @@ AI • Machine Learning • Computer Vision • OCR • Generative AI
 - Modern Streamlit Dashboard
 - Analytics Integration
 - Export Functionality
-- Docker Support
+- Streamlit Support
 - Production-Ready Architecture
 
 ---
