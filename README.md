@@ -1,4 +1,9 @@
 # AI OCR Studio 
+###  Live Demo
+
+ **Try the Application Here:**
+
+[Streamlit App](https://ocr-cap-54mqstc2npveuhwrjysytn.streamlit.app/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
@@ -249,20 +254,13 @@ http://localhost:8501
 
 ---
 
-##  Docker Deployment
+## ☁️ Deployment
 
-Build Docker Image:
+This application is deployed using Streamlit Community Cloud.
 
-```bash
-docker build -t ai-ocr-app .
-```
+### Access the App
 
-Run Container:
-
-```bash
-docker run -p 8501:8501 ai-ocr-app
-```
-
+🔗 https://ocr-cap-54mqstc2npveuhwrjysytn.streamlit.app/
 ---
 
 ##  Workflow
